@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=">
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <title></title>
+</head>
+<body>
+  <h1>  products</h1>
+</body>
+ <a href="/index.html">home page</a>
+products
+  <a href="/contacts.html">contacts</a>
+  <a href=" /about.html">about</a>
+  <a href=" /trading.html">trading</a>
+ <table border='1'>
+     <tr>
+     <td>Type of  cards</td>
+     <td>Imeges</td>
+     </tr>
+      <tr>
+     <td>Magic the gathering</td>
+     <td></td>
+     </tr>
+           <tr>
+     <td>Pokemon</td>
+     <td></td>
+      </tr>
+           <tr>
+     <td>Yu-Gi-Oh</td>
+     <td></td>
+     </tr>
+           <tr>
+     <td></td>
+     <td></td>
+     </tr>
+           <tr>
+     <td></td>
+     <td></td>
+     </tr>
+           <tr>
+     <td></td>
+     <td></td>
+     </tr>
+           <tr>
+     <td></td>
+     <td></td>
+     </tr>
+           <tr>
+     <td></td>
+     <td></td>
+     </tr>
+           <tr>
+     <td></td>
+     <td></td>
+     </tr>
+           <tr>
+     <td></td>
+     <td></td>
+     </tr>
+   </table>
+</html>
